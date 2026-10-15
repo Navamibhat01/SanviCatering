@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="48" fill="#0B2518" stroke="#D4AF37" stroke-width="2"/>
+  <!-- Pure Veg Green Dot within Golden Border -->
+  <circle cx="50" cy="50" r="38" stroke="#D4AF37" stroke-dasharray="2 4" stroke-width="1" opacity="0.6"/>
+  <!-- Leaf / Lotus Motifs -->
+  <path d="M50 20 C62 32 68 46 50 78 C32 46 38 32 50 20 Z" fill="#D4AF37"/>
+  <path d="M50 35 C56 45 58 55 50 72 C42 55 44 45 50 35 Z" fill="#0B2518"/>
+  <circle cx="50" cy="54" r="5" fill="#2E855A"/>
+</svg>
